@@ -12241,5 +12241,12 @@
         "author": "triski",
         "description": "Page Up|Down|Top|Bottom",
         "repo": "chenshutian9610/obsidian-pagescroll-plugin"
+    },
+    {
+        "id": "popkit",
+        "name": "PopKit",
+        "author": "Zhou Hua",
+        "description": "Select text to instantly access quick tools",
+        "repo": "zhouhua/obsidian-popkit"
     }
 ]
